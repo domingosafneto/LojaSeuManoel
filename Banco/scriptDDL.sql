@@ -56,11 +56,8 @@ GO
 
 CREATE TABLE Pedido (
 	IdPedido INT IDENTITY(1,1) PRIMARY KEY,
-	Descricao VARCHAR(70) NOT NULL,
-	Preco DECIMAL(10,2) NULL,
-	Altura DECIMAL(5,2) NULL,
-	Largura DECIMAL(5,2) NULL,
-	Comprimento DECIMAL(5,2) NULL
+	Descricao VARCHAR(70) NOT NULL,	
+	DataPedido DATE NOT NULL
 );
 GO
 
