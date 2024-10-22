@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\dtos\\pedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\dtos\\pedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\dtos\\dimensoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\dtos\\dimensoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\models\\pedidoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\models\\pedidoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\webpedidoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\webpedidoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dimensoes.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\Dimensoes.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\Dimensoes.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\Dimensoes.cs",
+              "RelativeToolTip": "WebPedidoAPI\\DTOs\\Dimensoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:28:29.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\ProdutoDTO.cs",
+              "RelativeToolTip": "WebPedidoAPI\\DTOs\\ProdutoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:20:54.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\PedidoDTO.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\PedidoDTO.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\PedidoDTO.cs",
+              "RelativeToolTip": "WebPedidoAPI\\DTOs\\PedidoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:19:41.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\PedidoRequest.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\PedidoRequest.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\PedidoRequest.cs",
+              "RelativeToolTip": "WebPedidoAPI\\DTOs\\PedidoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:19:08.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "WebPedidoAPI\\Data\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:12:24.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebPedidoAPI",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\WebPedidoAPI.csproj",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\WebPedidoAPI.csproj",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\WebPedidoAPI.csproj",
+              "RelativeToolTip": "WebPedidoAPI\\WebPedidoAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T19:37:11.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoProduto.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\PedidoProduto.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\Models\\PedidoProduto.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\PedidoProduto.cs",
+              "RelativeToolTip": "WebPedidoAPI\\Models\\PedidoProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:06:39.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\Pedido.cs",
+              "RelativeToolTip": "WebPedidoAPI\\Models\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:44:45.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\Produto.cs",
+              "RelativeToolTip": "WebPedidoAPI\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:52.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+use DB_LojaSeuManoel
+
 select 
     p.idpedido,
     p.descricao as descricaopedido,
