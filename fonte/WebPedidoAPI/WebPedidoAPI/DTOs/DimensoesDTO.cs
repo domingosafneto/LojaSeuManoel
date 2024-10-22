@@ -1,6 +1,6 @@
 ﻿namespace WebPedidoAPI.DTOs
 {
-    public class Dimensoes
+    public class DimensoesDTO
     {
         public decimal Altura { get; set; }
 

@@ -15,8 +15,8 @@ namespace WebPedidoAPI.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<PedidoProduto>()
-            //    .HasKey(pp => new { pp.IdPedido, pp.IdProduto });
+            modelBuilder.Entity<PedidoProduto>()
+                .HasKey(pp => new { pp.IdPedido, pp.IdProduto });
         }
     }
 }

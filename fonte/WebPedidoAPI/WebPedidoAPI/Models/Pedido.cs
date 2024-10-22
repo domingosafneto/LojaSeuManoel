@@ -9,6 +9,6 @@ namespace WebPedidoAPI.Models
 
         public string Descricao { get; set; }
 
-        public DateTime DataPedido { get; set; } = DateTime.Now; // valor padrão aqui via api
+        public DateTime DataPedido { get; set; } 
     }
 }

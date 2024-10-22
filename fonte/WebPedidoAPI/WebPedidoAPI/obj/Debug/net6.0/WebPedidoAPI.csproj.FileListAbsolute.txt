@@ -1,0 +1,8 @@
+C:\Users\domin\source\repos\LojaSeuManoel\fonte\WebPedidoAPI\WebPedidoAPI\obj\Debug\net6.0\WebPedidoAPI.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\LojaSeuManoel\fonte\WebPedidoAPI\WebPedidoAPI\obj\Debug\net6.0\WebPedidoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\source\repos\LojaSeuManoel\fonte\WebPedidoAPI\WebPedidoAPI\obj\Debug\net6.0\WebPedidoAPI.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\LojaSeuManoel\fonte\WebPedidoAPI\WebPedidoAPI\obj\Debug\net6.0\WebPedidoAPI.AssemblyInfo.cs
+C:\Users\domin\source\repos\LojaSeuManoel\fonte\WebPedidoAPI\WebPedidoAPI\obj\Debug\net6.0\WebPedidoAPI.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\LojaSeuManoel\fonte\WebPedidoAPI\WebPedidoAPI\obj\Debug\net6.0\WebPedidoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\domin\source\repos\LojaSeuManoel\fonte\WebPedidoAPI\WebPedidoAPI\obj\Debug\net6.0\WebPedidoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\domin\source\repos\LojaSeuManoel\fonte\WebPedidoAPI\WebPedidoAPI\obj\Debug\net6.0\WebPedidoAPI.sourcelink.json
