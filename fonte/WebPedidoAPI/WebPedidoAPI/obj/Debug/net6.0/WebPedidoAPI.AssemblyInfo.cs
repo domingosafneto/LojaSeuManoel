@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebPedidoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cccdf95ef9f16b1000b7b0181d01e3f89b1bfd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb7471f62ca85a53c37918df31b9c3f4beeda5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebPedidoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebPedidoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

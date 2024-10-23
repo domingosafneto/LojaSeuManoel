@@ -2,7 +2,7 @@
 {
     public class Caixa
     {
-        public string Id { get; set; }      
+        public string Caixa_Id { get; set; }      
         
         public decimal Altura { get; set; }   
 

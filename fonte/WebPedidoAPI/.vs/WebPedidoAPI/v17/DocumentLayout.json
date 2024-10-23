@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\services\\embalagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\services\\embalagemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\dtos\\caixaresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\dtos\\caixaresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\dtos\\embalarresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\dtos\\embalarresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\webpedidoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\webpedidoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|solutionrelative:webpedidoapi\\models\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B140098-B1E7-4D18-AF32-D5EAF526FE22}|WebPedidoAPI\\WebPedidoAPI.csproj|c:\\users\\domin\\source\\repos\\lojaseumanoel\\fonte\\webpedidoapi\\webpedidoapi\\dtos\\caixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,33 +86,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "EmbalarResposta.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\EmbalarResposta.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\EmbalarResposta.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\EmbalarResposta.cs",
+              "RelativeToolTip": "WebPedidoAPI\\DTOs\\EmbalarResposta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:51:15.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaixaResposta.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\CaixaResposta.cs",
+              "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\CaixaResposta.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\CaixaResposta.cs",
+              "RelativeToolTip": "WebPedidoAPI\\DTOs\\CaixaResposta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:46:30.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\Controllers\\PedidoController.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Controllers\\PedidoController.cs",
               "RelativeToolTip": "WebPedidoAPI\\Controllers\\PedidoController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAgwBsAAAAQAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowBsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T18:18:19.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmbalagemService.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Services\\EmbalagemService.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\Services\\EmbalagemService.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Services\\EmbalagemService.cs",
               "RelativeToolTip": "WebPedidoAPI\\Services\\EmbalagemService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAA8AAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAASwDcAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T16:43:03.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CaixaDTO.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\CaixaDTO.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\CaixaDTO.cs",
@@ -112,25 +146,24 @@
               "RelativeToolTip": "WebPedidoAPI\\DTOs\\CaixaDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:40:50.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T16:40:50.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Caixa.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\Caixa.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\Models\\Caixa.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\Caixa.cs",
               "RelativeToolTip": "WebPedidoAPI\\Models\\Caixa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T16:33:50.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProdutoDTO.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\ProdutoDTO.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\ProdutoDTO.cs",
@@ -138,12 +171,11 @@
               "RelativeToolTip": "WebPedidoAPI\\DTOs\\ProdutoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:20:54.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T20:20:54.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PedidoDTO.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\PedidoDTO.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\PedidoDTO.cs",
@@ -151,12 +183,11 @@
               "RelativeToolTip": "WebPedidoAPI\\DTOs\\PedidoDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:19:41.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T20:19:41.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DimensoesDTO.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\DimensoesDTO.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\DimensoesDTO.cs",
@@ -164,12 +195,11 @@
               "RelativeToolTip": "WebPedidoAPI\\DTOs\\DimensoesDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:28:29.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T20:28:29.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\Program.cs",
@@ -177,12 +207,11 @@
               "RelativeToolTip": "WebPedidoAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T18:52:31.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T18:52:31.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "WebPedidoAPI.csproj",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\WebPedidoAPI.csproj",
               "RelativeDocumentMoniker": "WebPedidoAPI\\WebPedidoAPI.csproj",
@@ -190,12 +219,11 @@
               "RelativeToolTip": "WebPedidoAPI\\WebPedidoAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-21T19:37:11.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T19:37:11.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PedidoRequest.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\DTOs\\PedidoRequest.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\DTOs\\PedidoRequest.cs",
@@ -203,12 +231,11 @@
               "RelativeToolTip": "WebPedidoAPI\\DTOs\\PedidoRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T20:19:08.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T20:19:08.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ApiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Data\\ApiDbContext.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\Data\\ApiDbContext.cs",
@@ -220,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "PedidoProduto.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\PedidoProduto.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\Models\\PedidoProduto.cs",
@@ -232,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\Models\\Pedido.cs",
@@ -244,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\LojaSeuManoel\\fonte\\WebPedidoAPI\\WebPedidoAPI\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "WebPedidoAPI\\Models\\Produto.cs",
