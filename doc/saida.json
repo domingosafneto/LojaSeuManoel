@@ -1,99 +1,107 @@
 {
-  "pedidos": [
-    {
-      "pedido_id": 1,
-      "caixas": [
+    "pedidos": [
         {
-          "caixa_id": "Caixa 2",
-          "produtos": ["PS5", "Volante"]
-        }
-      ]
-    },
-    {
-      "pedido_id": 2,
-      "caixas": [
-        {
-          "caixa_id": "Caixa 1",
-          "produtos": ["Joystick", "Fifa 24", "Call of Duty"]
-        }
-      ]
-    },
-    {
-      "pedido_id": 3,
-      "caixas": [
-        {
-          "caixa_id": "Caixa 1",
-          "produtos": ["Headset"]
-        }
-      ]
-    },
-    {
-      "pedido_id": 4,
-      "caixas": [
-        {
-          "caixa_id": "Caixa 1",
-          "produtos": ["Mouse Gamer", "Teclado Mecânico"]
-        }
-      ]
-    },
-    {
-      "pedido_id": 5,
-      "caixas": [
-        {
-          "caixa_id": null,
-          "produtos": ["Cadeira Gamer"],
-          "observacao": "Produto não cabe em nenhuma caixa disponível."
-        }
-      ]
-    },
-    {
-      "pedido_id": 6,
-      "caixas": [
-        {
-          "caixa_id": "Caixa 3",
-          "produtos": ["Monitor", "Notebook"]
+            "pedidoId": 1,
+            "caixas": [
+                {
+                    "caixaId": "Caixa 2",
+                    "produtos": [
+                        "PS5",
+                        "Volante"
+                    ],
+                    "observacao": null
+                }
+            ]
         },
         {
-          "caixa_id": "Caixa 1",
-          "produtos": ["Webcam", "Microfone"]
-        }
-      ]
-    },
-    {
-      "pedido_id": 7,
-      "caixas": [
+            "pedidoId": 2,
+            "caixas": [
+                {
+                    "caixaId": "Caixa 1",
+                    "produtos": [
+                        "Joystick",
+                        "Fifa 24",
+                        "Call of Duty"
+                    ],
+                    "observacao": null
+                }
+            ]
+        },
         {
-          "caixa_id": "Caixa 1",
-          "produtos": ["Jogo de Cabos"]
-        }
-      ]
-    },
-    {
-      "pedido_id": 8,
-      "caixas": [
+            "pedidoId": 3,
+            "caixas": [
+                {
+                    "caixaId": "Caixa 1",
+                    "produtos": [
+                        "Headset"
+                    ],
+                    "observacao": null
+                }
+            ]
+        },
         {
-          "caixa_id": "Caixa 1",
-          "produtos": ["Controle Xbox", "Carregador"]
-        }
-      ]
-    },
-    {
-      "pedido_id": 9,
-      "caixas": [
+            "pedidoId": 4,
+            "caixas": [
+                {
+                    "caixaId": "Caixa 1",
+                    "produtos": [
+                        "Mouse Gamer"
+                    ],
+                    "observacao": null
+                },
+                {
+                    "caixaId": "Caixa 2",
+                    "produtos": [
+                        "Teclado Mecânico"
+                    ],
+                    "observacao": null
+                }
+            ]
+        },
         {
-          "caixa_id": "Caixa 1",
-          "produtos": ["Tablet"]
-        }
-      ]
-    },
-    {
-      "pedido_id": 10,
-      "caixas": [
+            "pedidoId": 5,
+            "caixas": [
+                {
+                    "caixaId": null,
+                    "produtos": [
+                        "Cadeira Gamer"
+                    ],
+                    "observacao": "Produto Cadeira Gamer não cabe em nenhuma caixa disponível."
+                }
+            ]
+        },
         {
-          "caixa_id": "Caixa 1",
-          "produtos": ["HD Externo", "Pendrive"]
+            "pedidoId": 6,
+            "caixas": [
+                {
+                    "caixaId": "Caixa 1",
+                    "produtos": [
+                        "Webcam",
+                        "Microfone",
+                        "Notebook"
+                    ],
+                    "observacao": null
+                },
+                {
+                    "caixaId": "Caixa 3",
+                    "produtos": [
+                        "Monitor"
+                    ],
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "pedidoId": 7,
+            "caixas": [
+                {
+                    "caixaId": "Caixa 1",
+                    "produtos": [
+                        "Jogo de Cabos"
+                    ],
+                    "observacao": null
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
