@@ -1,3 +1,5 @@
+using WebPedidoAPI.Services;
+
 namespace WebPedidoAPI
 {
     public class Program
@@ -7,6 +9,8 @@ namespace WebPedidoAPI
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddScoped<EmbalagemService>();
+
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
